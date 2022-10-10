@@ -14,6 +14,7 @@ Magic Layout Window and Command Prompt
 ![image](https://user-images.githubusercontent.com/80171126/194928193-d756e637-e264-4c00-ad7f-d1e2b3a4c438.png)
 
 Magic with no console command -> magic -noconsole
+
 Magic with no GUI and no console (Used when writing in scripts) -> magic -dnull -noconsole
 
 
