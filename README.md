@@ -40,3 +40,15 @@ Xschem Window
 
 ![image](https://user-images.githubusercontent.com/80171126/194928848-55020dad-b851-4dc8-8f39-a5c4c108cdef.png)
 
+
+Example to create and run a .tcl file
+
+![image](https://user-images.githubusercontent.com/80171126/194931483-24b45207-a931-4561-8f77-20a112b546a4.png)
+
+Run Ngspice in batch mode
+
+![image](https://user-images.githubusercontent.com/80171126/194931572-8bd7b085-7d35-4cc1-a7e7-3c2e84ef1a77.png)
+
+
+Setting up magic with Skywater PDK:
+
