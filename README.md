@@ -50,5 +50,19 @@ Run Ngspice in batch mode
 ![image](https://user-images.githubusercontent.com/80171126/194931572-8bd7b085-7d35-4cc1-a7e7-3c2e84ef1a77.png)
 
 
-Setting up magic with Skywater PDK:
+Setting up Project workspace with Skywater PDK:
+
+![image](https://user-images.githubusercontent.com/80171126/194934874-e9c07e65-1fe3-4707-b783-4c527f76f5c6.png)
+
+
+Run xschem
+
+![image](https://user-images.githubusercontent.com/80171126/194934979-8958b232-d5fd-4606-acbc-2bbc5ed909b6.png)
+
+Run Magic
+
+![image](https://user-images.githubusercontent.com/80171126/194935576-33605719-616c-42fd-b276-eb76da36b941.png)
+
+![image](https://user-images.githubusercontent.com/80171126/194935653-cc1b79b4-e496-4b3f-a80e-538b0ca758c7.png)
+
 
