@@ -65,4 +65,6 @@ Run Magic
 
 ![image](https://user-images.githubusercontent.com/80171126/194935653-cc1b79b4-e496-4b3f-a80e-538b0ca758c7.png)
 
+Run magic with 3D rendering and HW acceleration -> Command: magic -d XR
+Run magic faster than 3D rendering -> Command: magic -d XR OGL
 
