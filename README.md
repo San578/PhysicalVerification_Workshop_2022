@@ -66,5 +66,10 @@ Run Magic
 ![image](https://user-images.githubusercontent.com/80171126/194935653-cc1b79b4-e496-4b3f-a80e-538b0ca758c7.png)
 
 Run magic with 3D rendering and HW acceleration -> Command: magic -d XR
-Run magic faster than 3D rendering -> Command: magic -d XR OGL
+Run magic faster than 3D rendering -> Command: magic -d OGL
 
+Creating and Erasing Layouts in Magic
+
+![image](https://user-images.githubusercontent.com/80171126/195152395-3e62b8fb-559b-43b7-87a6-0d5515574ec5.png)
+
+Use mouse left and right buttons to position and resize the rectangle. Use middle button of mouse and click on desired layer from toolbox to fill the rectangle with that layer or press 'p' from keyboard by hovering over desired layer. Create a rectangle and click mouse middle button on the empty space of magic window to erase that section of layer or press 'e' to erase.
