@@ -95,3 +95,5 @@ Creating Simple scematics in Xschem --
 
 ![image](https://user-images.githubusercontent.com/80171126/195825144-52f0e845-79e4-4211-a54d-838b33c927af.png)
 
+![image](https://user-images.githubusercontent.com/80171126/195825764-4d3de95a-7253-4ca1-ae39-790555f92b0b.png)
+
