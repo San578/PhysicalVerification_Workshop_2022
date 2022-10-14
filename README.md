@@ -129,6 +129,14 @@ Netgen Extraction:
 
 The Circuits match uniquely and Combined 3 parallel devices. There is no non-matching nets and devices list. Therefore the layout is correct.
 
+Capacitance Extraction:
 
+![image](https://user-images.githubusercontent.com/80171126/195862287-d6af781b-4328-4d02-872e-342fba21232a.png)
+
+![image](https://user-images.githubusercontent.com/80171126/195862685-89a41767-63df-414e-9543-96885bdbd2d7.png)
+
+Run "vi inverter.spice" on command window to see capacitance extraction
+
+![image](https://user-images.githubusercontent.com/80171126/195863606-15243458-be61-4d05-8262-e4fddf751ec9.png)
 
 
