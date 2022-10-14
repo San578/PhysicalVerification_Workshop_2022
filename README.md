@@ -118,5 +118,17 @@ Now connect the pins to the FETs as below:
 
 ![image](https://user-images.githubusercontent.com/80171126/195837142-172dd082-76b7-4316-a33b-6516da73dcab.png)
 
+Extract commands in magic command window
+![image](https://user-images.githubusercontent.com/80171126/195858745-fbfe89af-5c84-4b1f-87dd-c033f38256ee.png)
+
+Netgen Extraction:
+
+![image](https://user-images.githubusercontent.com/80171126/195860248-ea6d74b3-49dd-4c46-8cbf-9912f7f38d07.png)
+
+![image](https://user-images.githubusercontent.com/80171126/195860328-f50d8737-ee95-405b-ab95-45ca0fc42b99.png)
+
+The Circuits match uniquely and Combined 3 parallel devices. There is no non-matching nets and devices list. Therefore the layout is correct.
+
+
 
 
