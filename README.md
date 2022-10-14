@@ -97,3 +97,25 @@ Creating Simple scematics in Xschem --
 
 ![image](https://user-images.githubusercontent.com/80171126/195825764-4d3de95a-7253-4ca1-ae39-790555f92b0b.png)
 
+Magic -> Open Netlist
+
+![image](https://user-images.githubusercontent.com/80171126/195830634-a0d7637c-fa76-469c-8930-290192f3604e.png)
+
+![image](https://user-images.githubusercontent.com/80171126/195830723-7392a1ab-8214-4e13-ad28-9073d8ad9d78.png)
+
+Rearrange 
+
+![image](https://user-images.githubusercontent.com/80171126/195831756-b34ef251-8012-4674-8a06-df85748a171f.png)
+
+Select PFET with "i" key and press "ctrl+p" to open parameters window. Apply the following parameters:
+Top Gaurd ring = 100, Source via coverage = 40, Drain via coverage = -40
+
+![image](https://user-images.githubusercontent.com/80171126/195832601-33cc6a0e-d3ad-4609-a9d7-6bb8737a2512.png)
+
+Similarly, apply parameters Bottom gaurd ring = 100, Source via coverage = 40, Drain via coverage = -40 for NFET
+
+Now connect the pins to the FETs as below:
+
+![image](https://user-images.githubusercontent.com/80171126/195836901-5b571835-6e4c-45e0-b541-178b80ba5fcb.png)
+
+
