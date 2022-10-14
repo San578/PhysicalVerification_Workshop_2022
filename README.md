@@ -80,3 +80,14 @@ Example:
 
 ![image](https://user-images.githubusercontent.com/80171126/195765674-c03bc6b8-3535-4eca-9ea6-a4ec23b9764f.png)
 
+NMOS is created, hover over the magic window and press "v" to fit the design in the window.
+
+![image](https://user-images.githubusercontent.com/80171126/195809613-7fffbcfa-2d4f-4b30-b5e2-071583769e46.png)
+
+The gaurd ring can be removed by unchecking "Add Gaurd ring" and press apply.
+To find the device type, hower over the device and press "s" to select and type "what" in magic command window.
+
+![image](https://user-images.githubusercontent.com/80171126/195810783-44757358-d72f-44eb-9883-5d56d8506717.png)
+
+For avoiding to switch to magic command window, select the device, press ";" button on keyboard to start command and type desired command and press enter.
+
