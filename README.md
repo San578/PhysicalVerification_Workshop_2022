@@ -91,3 +91,7 @@ To find the device type, hower over the device and press "s" to select and type 
 
 For avoiding to switch to magic command window, select the device, press ";" button on keyboard to start command and type desired command and press enter.
 
+Creating Simple scematics in Xschem --
+
+![image](https://user-images.githubusercontent.com/80171126/195825144-52f0e845-79e4-4211-a54d-838b33c927af.png)
+
