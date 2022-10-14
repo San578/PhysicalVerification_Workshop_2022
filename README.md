@@ -116,6 +116,7 @@ Similarly, apply parameters Bottom gaurd ring = 100, Source via coverage = 40, D
 
 Now connect the pins to the FETs as below:
 
-![image](https://user-images.githubusercontent.com/80171126/195836901-5b571835-6e4c-45e0-b541-178b80ba5fcb.png)
+![image](https://user-images.githubusercontent.com/80171126/195837142-172dd082-76b7-4316-a33b-6516da73dcab.png)
+
 
 
