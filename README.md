@@ -73,3 +73,10 @@ Creating and Erasing Layouts in Magic
 ![image](https://user-images.githubusercontent.com/80171126/195152395-3e62b8fb-559b-43b7-87a6-0d5515574ec5.png)
 
 Use mouse left and right buttons to position and resize the rectangle. Use middle button of mouse and click on desired layer from toolbox to fill the rectangle with that layer or press 'p' from keyboard by hovering over desired layer. Create a rectangle and click mouse middle button on the empty space of magic window to erase that section of layer or press 'e' to erase.
+
+Example:
+
+![image](https://user-images.githubusercontent.com/80171126/195765414-c81990df-9938-478f-8f42-e59782e9a486.png)
+
+![image](https://user-images.githubusercontent.com/80171126/195765674-c03bc6b8-3535-4eca-9ea6-a4ec23b9764f.png)
+
