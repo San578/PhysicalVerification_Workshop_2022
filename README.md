@@ -152,3 +152,36 @@ Now run "ngspice inverter_tb.spice" and obtain the waveform plot.
 Please not that the waveform obtained is not correct due to some mistake in layout drawing.
 
 
+Day 2: Create an new project workspace (lab2) as in day 1 with only mag directry.
+Launch magic using "magic -d XR"
+Use magic command window to get all styles, style in use and both as shown below.
+
+![image](https://user-images.githubusercontent.com/80171126/195989963-15ee3a1b-88ed-4a2d-b0a3-a7c174fea758.png)
+
+Now read a reference GDS layout using gds read as shown below
+
+![image](https://user-images.githubusercontent.com/80171126/195990109-031b191f-8131-4cfc-b05f-b10b6c488a09.png)
+
+The gds file is read as shown but the layout will not be generated in the Magic Layout
+
+![image](https://user-images.githubusercontent.com/80171126/195990160-3f116d33-000a-4010-8c83-4af9099a7ffa.png)
+
+Now go to Magic Widow and select 'Options" from tool bar, select "Cell Manager" and select "sky130_fd_sc_pr/hd__and2_1" and load.
+As indicated above since we are in "sky130()" mode, the labels created will be in Yellow.
+
+![image](https://user-images.githubusercontent.com/80171126/195990331-5b7f2dd4-5cb1-4a53-a9eb-3c33fe0dd550.png)
+
+Now change the style using "gds istyle sky130(vendor)" and load the gds file using "gds load /usr...".
+The layout will now be loaded with blue labels.
+
+‌![image](https://user-images.githubusercontent.com/80171126/195990851-c58069ad-bcdc-4232-9d0d-3c786ead64a2.png)
+
+Now type "gds noduplicates" in mag command window, if the output is '0' noduplicate is disabbled.
+Enable no duplicates using "gds noduplicates true", change the style to "sky130()" and load the gds file. The output indicated "Using pre-existing cell defination" and labels do not turn to yellow.
+
+![image](https://user-images.githubusercontent.com/80171126/195990855-09bf9a3e-f5b7-44c3-94a3-b88a497a328a.png)
+
+![image](https://user-images.githubusercontent.com/80171126/195990908-f05bc4d1-cd1f-4f65-bd8f-3c49daa2df65.png)
+
+Now disable noduplicates and continue in vendor style as it is preferred style.
+
