@@ -139,4 +139,16 @@ Run "vi inverter.spice" on command window to see capacitance extraction
 
 ![image](https://user-images.githubusercontent.com/80171126/195863606-15243458-be61-4d05-8262-e4fddf751ec9.png)
 
+Note the line ".subckt inverter in vss vdd out"
+
+Now copy inverter_tb.spice from xschem directory to mag directory. Run "cp ../xschem/inverter_tb.spice .".
+Now edit this file to remove transistor library and replace with ".include inverter.spice". Also edit the inverter subcircuit line pins (in, out, GND, vdd) as per inverter.spice
+
+Copy spiceinit file from xschem directory. Run "cp ../xschem/.spiceinit .".
+Now run "ngspice inverter_tb.spice" and obtain the waveform plot.
+
+![image](https://user-images.githubusercontent.com/80171126/195975905-68d4afa5-df65-4473-9b1f-f6f094e442e1.png)
+
+Please not that the waveform obtained is not correct due to some mistake in layout drawing.
+
 
